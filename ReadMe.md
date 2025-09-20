@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a begginer developer and I love to create and learn new things about tech
+Begginer Developer || Java
 
 
 ## 🌐 Socials:
