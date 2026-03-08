@@ -1,4 +1,4 @@
-<img src = "https://media1.tenor.com/m/CA3bTDL4atwAAAAd/github-welcome.gif" width="300">
+<img src = "https://media1.tenor.com/m/CA3bTDL4atwAAAAd/github-welcome.gif" width="600">
 
 👋👋 Hi my name is Matheus Bonato, and i'm System Development student from Hortolandia/SP - Brazil. Studying programming since 2025 and looking for a internship.
 
@@ -21,7 +21,3 @@ I like video Games🎮
 <img src="    https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"width="50">
 <img src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50">
 <img src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" width="50">
-
-
-
-
