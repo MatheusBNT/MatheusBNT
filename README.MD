@@ -1,4 +1,4 @@
-<img src = "https://media1.tenor.com/m/CA3bTDL4atwAAAAd/github-welcome.gif" width="600">
+![](https://media1.tenor.com/m/CA3bTDL4atwAAAAd/github-welcome.gif)
 
 👋👋 Hi my name is Matheus Bonato, and i'm System Development student from Hortolandia/SP - Brazil. Studying programming since 2025 and looking for a internship.
 
